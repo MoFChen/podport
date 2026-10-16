@@ -1,0 +1,11 @@
+.git
+.openai
+node_modules
+releases
+dist
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.zip
+*.tar

@@ -1,0 +1,15 @@
+node_modules/
+releases/
+dist/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.zip
+*.tar
+.openai/state/
+
+__pycache__/
+*.pyc
+
+pytest-of-root/

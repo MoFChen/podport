@@ -1,0 +1,1 @@
+{"name":"podport-go","version":"3.0.0","private":true,"type":"module","scripts":{"test":"node --test tests/web.test.mjs","preview:package":"node scripts/preview.mjs"},"devDependencies":{"linkedom":"0.18.12"}}
